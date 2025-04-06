@@ -1,35 +1,37 @@
-![Build and Deploy Full Stack ChatPDF Clone](https://github.com/Elliott-Chong/chatpdf-yt/assets/77007117/7fcee290-ca52-46ee-ae82-3490f505270b)
+Here's your updated project README with the YouTube link removed and the project renamed to **Obsichat** instead of **chatpdf-yt**:
 
-[Link to YouTube Tutorial](https://www.youtube.com/watch?v=bZFedu-0emE)
+---
+
+![Build and Deploy Full Stack Obsichat Clone](https://github.com/Elliott-Chong/chatpdf-yt/assets/77007117/7fcee290-ca52-46ee-ae82-3490f505270b)
 
 # Overview
 
-Welcome to the "chatpdf-yt" project, a comprehensive chat application with PDF integration. This project is designed to provide a seamless chat experience where users can upload PDF files, create chats around them, and interact with an AI assistant. The AI assistant uses the OpenAI API to generate responses based on the chat context. The application also includes a subscription feature, where users can subscribe to access premium features. The subscription process is handled using Stripe for payments and webhooks for event processing.
+Welcome to the **Obsichat** project, a comprehensive chat application with PDF integration. This project is designed to provide a seamless chat experience where users can upload PDF files, create chats around them, and interact with an AI assistant. The AI assistant uses the OpenAI API to generate responses based on the chat context. The application also includes a subscription feature, where users can subscribe to access premium features. The subscription process is handled using Stripe for payments and webhooks for event processing.
 
 hi this is a test change!
 
 # Technologies and Frameworks
 
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- Clerk
-- Drizzle ORM
-- PostgreSQL
-- AWS SDK
-- OpenAI API
-- Stripe
-- Axios
-- Pinecone
-- Drizzle-kit
-- OpenAI Edge
-- Neon Database Serverless
-- Drizzle-orm/neon-http
-- @tanstack/react-query
-- @clerk/nextjs
-- clsx
-- tailwind-merge
+- Next.js  
+- React  
+- TypeScript  
+- Tailwind CSS  
+- Clerk  
+- Drizzle ORM  
+- PostgreSQL  
+- AWS SDK  
+- OpenAI API  
+- Stripe  
+- Axios  
+- Pinecone  
+- Drizzle-kit  
+- OpenAI Edge  
+- Neon Database Serverless  
+- Drizzle-orm/neon-http  
+- @tanstack/react-query  
+- @clerk/nextjs  
+- clsx  
+- tailwind-merge  
 
 # Installation
 
@@ -77,4 +79,6 @@ Follow the steps below to install and setup the project:
 
     Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+---
 
+Let me know if you want to rename the GitHub repo link too or rebrand any other parts (like title tag, app name, etc.)!
