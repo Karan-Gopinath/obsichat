@@ -11,9 +11,9 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
-  images: {
-    domains: ['your-domain.com'], // Replace with actual domains for image optimization
-  },
+  //images: {
+    //domains: ['your-domain.com'], // Replace with actual domains for image optimization
+  //},
 };
 
 module.exports = nextConfig;
