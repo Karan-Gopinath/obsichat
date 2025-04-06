@@ -1,8 +1,3 @@
-Here's your updated project README with the YouTube link removed and the project renamed to **Obsichat** instead of **chatpdf-yt**:
-
----
-
-![Build and Deploy Full Stack Obsichat Clone](https://github.com/Elliott-Chong/chatpdf-yt/assets/77007117/7fcee290-ca52-46ee-ae82-3490f505270b)
 
 # Overview
 
