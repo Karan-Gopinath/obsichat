@@ -36,8 +36,6 @@ Follow the steps below to install and setup the project:
 
    Open your terminal and run the following command:
 
-   ```bash
-git@github.com:Karan-Gopinath/obsichat.git   ```
 
 2. **Navigate to the project directory**
 
